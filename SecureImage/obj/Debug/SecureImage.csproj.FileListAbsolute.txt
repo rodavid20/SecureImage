@@ -1,0 +1,9 @@
+C:\Users\faculty\Desktop\SecureImage\SecureImage\SecureImage\bin\Debug\SecureImage.exe.config
+C:\Users\faculty\Desktop\SecureImage\SecureImage\SecureImage\bin\Debug\SecureImage.exe
+C:\Users\faculty\Desktop\SecureImage\SecureImage\SecureImage\bin\Debug\SecureImage.pdb
+C:\Users\faculty\Desktop\SecureImage\SecureImage\SecureImage\obj\Debug\SecureImage.csprojResolveAssemblyReference.cache
+C:\Users\faculty\Desktop\SecureImage\SecureImage\SecureImage\obj\Debug\SecureImage.Form1.resources
+C:\Users\faculty\Desktop\SecureImage\SecureImage\SecureImage\obj\Debug\SecureImage.Properties.Resources.resources
+C:\Users\faculty\Desktop\SecureImage\SecureImage\SecureImage\obj\Debug\SecureImage.csproj.GenerateResource.Cache
+C:\Users\faculty\Desktop\SecureImage\SecureImage\SecureImage\obj\Debug\SecureImage.exe
+C:\Users\faculty\Desktop\SecureImage\SecureImage\SecureImage\obj\Debug\SecureImage.pdb
